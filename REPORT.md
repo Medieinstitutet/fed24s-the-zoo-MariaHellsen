@@ -70,8 +70,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: G**
-📌 **Motivering:** Koden tenderar att uppfylla grundläggande funktionella krav och använder en router för sidvisning, korrekt hantering av djurens översikt och detaljer och visar betryggande hantering av bildlänkar samt använder externa bibliotek för styling. Detta uppfyller kraven för betyg G. Dock verkar vissa avancerade tekniker saknas, såsom användandet av Context API för komponentkommunikation och reducers för djurhantering.
+## 🏆 **Betyg: IG**
+📌 **Motivering:** Flera grundläggande krav från uppgiften är inte uppfyllda, inklusive router-implementation och djurhantering.
 
 💡 **Förbättringsförslag:**  
-Implementera Context API och reducers för bättre state management. Försök även integrera små animeringar vid användarinteraktioner och sidaändringar för en mer responsiv användarupplevelse.
+Behövs inläggning av routing, användning av context och reducers, hantering av djurbilder och mer avancerade CSS tekniker.
