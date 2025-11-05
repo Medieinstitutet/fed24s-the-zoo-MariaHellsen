@@ -70,8 +70,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: IG**
-📌 **Motivering:** Koden uppfyller inte grundläggande krav för betyg G då stora delar saknas. Funktionalitet som hantering av djurdata, routing, användning av context och reducers, samt mekanismen för djurmatning saknas.
+## 🏆 **Betyg: G**
+📌 **Motivering:** Koden tenderar att uppfylla grundläggande funktionella krav och använder en router för sidvisning, korrekt hantering av djurens översikt och detaljer och visar betryggande hantering av bildlänkar samt använder externa bibliotek för styling. Detta uppfyller kraven för betyg G. Dock verkar vissa avancerade tekniker saknas, såsom användandet av Context API för komponentkommunikation och reducers för djurhantering.
 
 💡 **Förbättringsförslag:**  
-1. Implementera en router för att hantera olika sidor i appen. 2. Skapa en Djurs-listkomponent som hämtar och visar djurdata från den givna API:en. 3. Länka varje djur till en detaljerad djursida. 4. Implementera logiken för att mata djuren baserat på specificerade tidsintervall. 5. Använd annan stylingteknik än vanlig CSS, som SAS, Tailwind eller Material-UI. 6. För kulter till betyget VG, använd context för att dela djurinformation mellan komponenter och implementera reducers för djurhantering. 7. Lägg till animeringar på knappevents och vid statusändringar.
+Implementera Context API och reducers för bättre state management. Försök även integrera små animeringar vid användarinteraktioner och sidaändringar för en mer responsiv användarupplevelse.
