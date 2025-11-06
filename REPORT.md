@@ -71,7 +71,7 @@ Ha roligt, skratta och lär er massor!
 
 
 ## 🏆 **Betyg: IG**
-📌 **Motivering:** Flera grundläggande krav från uppgiften är inte uppfyllda, inklusive router-implementation och djurhantering.
+📌 **Motivering:** Grundkraven för att uppnå betyg G är inte uppfyllda. Det saknas bevis för implementationer som routerhantering, djuröversikt, samtal mellan komponenter via context eller reducer-funktionalitet.
 
 💡 **Förbättringsförslag:**  
-Behövs inläggning av routing, användning av context och reducers, hantering av djurbilder och mer avancerade CSS tekniker.
+Studenter bör fokusera på att implementera en routerstruktur med layouts, hantera data och komponentkommunikation mer effektivt genom context och reducer, samt inkludera fler stylingslösningar bortom CSS för att bättre möta kraven.
