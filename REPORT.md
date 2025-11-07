@@ -1,7 +1,6 @@
 # 📌 Rättningsrapport – fed24s-the-zoo-MariaHellsen
 
 ## 🎯 Uppgiftens Krav:
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xBUCHFwF)
 # The Zoo
 
 I denna inlämningsuppgift kommer ni att bygga ett zoo. Zoo:t har ett antal djur som kommer behöva matas. 
@@ -66,12 +65,11 @@ Välj en teknik gällande css som ni antingen vill lära er mer om eller som ni 
 
 Ha roligt, skratta och lär er massor!
 
-
 ## 🔍 ESLint-varningar:
 
 
 ## 🏆 **Betyg: IG**
-📌 **Motivering:** Grundkraven för att uppnå betyg G är inte uppfyllda. Det saknas bevis för implementationer som routerhantering, djuröversikt, samtal mellan komponenter via context eller reducer-funktionalitet.
+📌 **Motivering:** Viktiga krav, såsom routing, avancerad CSS-teknik, och korrekt hantering av djurdata saknas eller är oidentifierade. Implementering av context och reducers finns ej belagda i data.
 
 💡 **Förbättringsförslag:**  
-Studenter bör fokusera på att implementera en routerstruktur med layouts, hantera data och komponentkommunikation mer effektivt genom context och reducer, samt inkludera fler stylingslösningar bortom CSS för att bättre möta kraven.
+Inkludera routning och komplexa stiltekniker. Säkerställ korrekt djurdata- och bildhantering. Använd context och reducers för state management.
