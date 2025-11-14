@@ -69,7 +69,7 @@ Ha roligt, skratta och lär er massor!
 
 
 ## 🏆 **Betyg: G**
-📌 **Motivering:** Koden uppfyller alla grundläggande krav för betyg G, inklusive användning av en router, hantering av trasiga bildlänkar och användning av en alternativ teknik för styling. Funktionaliteten för att mata djur och hantera deras matningsstatus är implementerad. Dock saknas vissa avancerade funktioner som krävs för betyg VG, såsom användning av context och reducers för state-hantering, samt implementering av subtila animeringar.
+📌 **Motivering:** Projektet uppfyller alla grundläggande krav för betyget G. Koden är välstrukturerad och följer de flesta etablerade konventioner. Funktionaliteten är implementerad enligt uppgiftens specifikationer, och det finns en grundläggande felhantering på plats. För att nå VG-nivå krävs ytterligare implementation av context API och reducers, samt förbättringar i användarupplevelsen genom subtila animeringar.
 
 💡 **Förbättringsförslag:**  
-För att nå VG bör studenten implementera datahämtning med hjälp av tjänster eller en custom hook, använda context för komponentkommunikation istället för props, och använda reducers för att hantera djurens state. Dessutom bör subtila animeringar läggas till för att förbättra användarupplevelsen, och matningslogiken bör förbättras för att säkerställa att matningsstatus nollställs korrekt vid återgång till djur-sidan.
+Implementera Context API och reducers för att förbättra state-hanteringen och komponentkommunikationen. Lägg till subtila animeringar för att förbättra användarupplevelsen. Se över säkerhetsaspekter och optimera prestanda genom att minimera nätverksanrop och optimera bildhantering. Förbättra kodens dokumentation och kommentarer för att underlätta för framtida utvecklare.
