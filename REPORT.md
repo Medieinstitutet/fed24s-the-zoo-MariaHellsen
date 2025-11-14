@@ -69,7 +69,15 @@ Ha roligt, skratta och lär er massor!
 
 
 ## 🏆 **Betyg: G**
-📌 **Motivering:** Projektet uppfyller alla grundläggande krav för betyget G. Koden är välstrukturerad och följer de flesta etablerade konventioner. Funktionaliteten är implementerad enligt uppgiftens specifikationer, och det finns en grundläggande felhantering på plats. För att nå VG-nivå krävs ytterligare implementation av context API och reducers, samt förbättringar i användarupplevelsen genom subtila animeringar.
+📌 **Motivering:** Projektet uppfyller de grundläggande kraven för betyget G. Koden är i stort sett välstrukturerad och funktionaliteten som beskrivs i uppgiften är implementerad. Studenten har använt en router för att visa olika sidor, hanterar trasiga bildlänkar korrekt och använder en annan teknik än ren CSS för styling. Dock saknas vissa avancerade funktioner och förbättringar som krävs för VG-nivå, såsom användning av context API, reducers för state management, och subtila animeringar.
 
 💡 **Förbättringsförslag:**  
-Implementera Context API och reducers för att förbättra state-hanteringen och komponentkommunikationen. Lägg till subtila animeringar för att förbättra användarupplevelsen. Se över säkerhetsaspekter och optimera prestanda genom att minimera nätverksanrop och optimera bildhantering. Förbättra kodens dokumentation och kommentarer för att underlätta för framtida utvecklare.
+1. **Kodstruktur och Organisation**: Förbättra filstrukturen genom att dela upp komponenter ytterligare och använda en mer modulär struktur. Detta kan underlätta återanvändbarhet och läsbarhet.
+
+2. **Kodkvalitet**: Lägg till fler kommentarer för att förklara komplexa delar av koden. Åtgärda inkonsekventa namngivningar och reducera kodupprepning genom att extrahera gemensam logik till hjälpfunktioner eller custom hooks.
+
+3. **Funktionalitet**: Åtgärda de mindre buggarna kring bildlänkar och matningslogik. Implementera fler enhetstester för att säkerställa att alla funktioner fungerar som förväntat.
+
+4. **Best Practices för Frontend**: Förbättra säkerheten genom att hantera API-anrop mer robust och se till att inga känsliga data exponeras. Förbättra prestandan genom att använda lazy loading för bilder och komponenter.
+
+5. **VG-krav**: För att nå VG-nivå, implementera context API och reducers för state management, samt använd subtila animeringar för att förbättra användarupplevelsen. Säkerställ att alla krav för VG-nivå är uppfyllda, inklusive användning av tjänster eller custom hooks för datahämtning.
