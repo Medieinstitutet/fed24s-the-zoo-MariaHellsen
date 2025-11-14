@@ -68,8 +68,8 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: IG**
-📌 **Motivering:** Viktiga krav, såsom routing, avancerad CSS-teknik, och korrekt hantering av djurdata saknas eller är oidentifierade. Implementering av context och reducers finns ej belagda i data.
+## 🏆 **Betyg: VG**
+📌 **Motivering:** Projektet uppfyller alla krav för både betyg G och VG. Koden är välstrukturerad, följer best practices för frontend-utveckling och har en effektiv implementering av felhantering. Användargränssnittet är intuitivt och funktionaliteten är komplett. Studenten har visat en hög nivå av förståelse för de tekniker som används.
 
 💡 **Förbättringsförslag:**  
-Inkludera routning och komplexa stiltekniker. Säkerställ korrekt djurdata- och bildhantering. Använd context och reducers för state management.
+Inga större förbättringar behövs. För framtida projekt kan studenten utforska ytterligare optimeringar för prestanda och säkerhet, samt överväga att inkludera enhetstester för kritiska funktioner för att säkerställa funktionalitet och stabilitet.
