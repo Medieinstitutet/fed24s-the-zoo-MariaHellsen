@@ -68,16 +68,13 @@ Ha roligt, skratta och lär er massor!
 ## 🔍 ESLint-varningar:
 
 
-## 🏆 **Betyg: G**
-📌 **Motivering:** Projektet uppfyller de grundläggande kraven för betyget G. Koden är i stort sett välstrukturerad och funktionaliteten som beskrivs i uppgiften är implementerad. Studenten har använt en router för att visa olika sidor, hanterar trasiga bildlänkar korrekt och använder en annan teknik än ren CSS för styling. Dock saknas vissa avancerade funktioner och förbättringar som krävs för VG-nivå, såsom användning av context API, reducers för state management, och subtila animeringar.
+## 🏆 **Betyg: IG**
+📌 **Motivering:** Projektet uppfyller inte några av de grundläggande kraven som specificerats för betyget G. Det saknas en router för att hantera olika sidor, djurdata hanteras inte, och det finns inga funktioner för att mata djuren eller hantera bilder. Styling är inte implementerad med någon avancerad CSS-teknik som krävs.
 
 💡 **Förbättringsförslag:**  
-1. **Kodstruktur och Organisation**: Förbättra filstrukturen genom att dela upp komponenter ytterligare och använda en mer modulär struktur. Detta kan underlätta återanvändbarhet och läsbarhet.
-
-2. **Kodkvalitet**: Lägg till fler kommentarer för att förklara komplexa delar av koden. Åtgärda inkonsekventa namngivningar och reducera kodupprepning genom att extrahera gemensam logik till hjälpfunktioner eller custom hooks.
-
-3. **Funktionalitet**: Åtgärda de mindre buggarna kring bildlänkar och matningslogik. Implementera fler enhetstester för att säkerställa att alla funktioner fungerar som förväntat.
-
-4. **Best Practices för Frontend**: Förbättra säkerheten genom att hantera API-anrop mer robust och se till att inga känsliga data exponeras. Förbättra prestandan genom att använda lazy loading för bilder och komponenter.
-
-5. **VG-krav**: För att nå VG-nivå, implementera context API och reducers för state management, samt använd subtila animeringar för att förbättra användarupplevelsen. Säkerställ att alla krav för VG-nivå är uppfyllda, inklusive användning av tjänster eller custom hooks för datahämtning.
+1. Implementera en router för att hantera olika sidor i applikationen, inklusive en översiktssida och en djurdetaljsida.
+2. Hämta och hantera djurdata från det angivna API:et och visa det på översiktssidan.
+3. Implementera funktionalitet för att mata djur och spara tiden för senaste matning.
+4. Hantera trasiga bildlänkar korrekt.
+5. Använd en annan teknik än ren CSS för styling, såsom Tailwind, SCSS eller Material UI.
+6. För att nå VG, använd context för komponentkommunikation, reducers för state-hantering, och subtila animeringar vid användarinteraktioner.
